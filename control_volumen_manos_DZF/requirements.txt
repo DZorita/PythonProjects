@@ -1,0 +1,6 @@
+pymongo[srv]
+python-dotenv
+opencv-python
+mediapipe
+pycaw
+comtypes
